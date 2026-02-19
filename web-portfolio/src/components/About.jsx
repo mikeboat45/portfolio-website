@@ -8,6 +8,7 @@ import gitLogo from "../assets/git.svg";
 import figmaLogo from "../assets/figma.svg";
 import htmlLogo from "../assets/html5.svg";
 import cssLogo from "../assets/css.svg";
+import cursorLogo from "../assets/cursor.svg";
 
 const languagesAndFrameworks = [
   { name: "HTML 5", logo: htmlLogo },
@@ -23,6 +24,7 @@ const tools = [
   { name: "GitHub", logo: githubLogo },
   { name: "Figma", logo: figmaLogo },
   { name: "Supabase", logo: supabaseLogo },
+  { name: "Cursor", logo: cursorLogo },
 ];
 
 const About = () => {

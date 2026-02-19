@@ -13,7 +13,7 @@ const Navbar = () => {
       <div className="flex items-center justify-between px-6 py-4">
         {/* Logo */}
         <div className="text-xl font-bold tracking-tight">
-          Boateng<span className="text-gray-500">.dev</span>
+          boateng<span className="text-gray-500">.dev</span>
         </div>
 
         {/* Hamburger Button */}
@@ -31,7 +31,10 @@ const Navbar = () => {
           <a href="#about" className="hover:text-gray-600 transition">
             About
           </a>
-          <a href="#projects" className="hover:text-gray-600 transition">
+          <a
+            href="#featured-projects"
+            className="hover:text-gray-600 transition"
+          >
             Projects
           </a>
           <a href="#contact" className="hover:text-gray-600 transition">
