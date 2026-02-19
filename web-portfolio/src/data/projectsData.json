@@ -18,15 +18,6 @@
     "featured": true
   },
   {
-    "id": 4,
-    "title": "Boateng Movies",
-    "description": "Frontend movie app with React.",
-    "image": "/movie.jpg",
-    "technologies": ["React", "Context API"],
-    "link": "#",
-    "featured": true
-  },
-  {
     "id": 3,
     "title": "Wellness Gait App",
     "description": "Frontend website for a clinic built with React and a supabase backend.",
@@ -36,12 +27,21 @@
     "featured": true
   },
   {
-    "id": 3,
+    "id": 4,
+    "title": "Boateng Movies",
+    "description": "Frontend movie app with React.",
+    "image": "/movie.jpg",
+    "technologies": ["React", "Context API"],
+    "link": "#",
+    "featured": false
+  },
+  {
+    "id": 5,
     "title": "Hey-weather",
     "description": "A weather app built React.",
     "image": "/weather.jpg",
     "technologies": ["React", "Open Weather API"],
     "link": "https://hey-weather-web-app.netlify.app/",
-    "featured": true
+    "featured": false
   }
 ]
