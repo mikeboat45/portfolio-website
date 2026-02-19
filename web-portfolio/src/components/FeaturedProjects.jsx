@@ -27,7 +27,7 @@ const FeaturedProjects = () => {
 
       <div className="mt-6">
         <a
-          href="#"
+          href="/projects"
           className="inline-flex items-center justify-center gap-2 bg-black text-white px-6 py-3 rounded-lg hover:bg-gray-800 transition"
         >
           All Projects

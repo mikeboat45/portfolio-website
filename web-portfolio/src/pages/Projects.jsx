@@ -1,7 +1,7 @@
 import projects from "../data/projectsData.json";
 import ProjectCard from "../components/ProjectCard";
 
-const ProjectsPage = () => {
+const Projects = () => {
   return (
     <main className="w-full py-20 px-6 md:px-12 lg:px-20">
       <p className="text-sm uppercase tracking-widest text-gray-500">
@@ -20,4 +20,4 @@ const ProjectsPage = () => {
   );
 };
 
-export default ProjectsPage;
+export default Projects;
